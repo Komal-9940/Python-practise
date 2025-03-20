@@ -1,3 +1,3 @@
-Author name-Komal Sharma 
+Author name-Komal Sharma(python)
 <br>
 # Python-practise
